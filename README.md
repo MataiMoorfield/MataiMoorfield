@@ -8,3 +8,4 @@ Future university subjects I hope to take:
 Other infomation:
 - 📫 How to reach me: matai@moorfield.co.nz or matai@botfrenzy.co.nz
 - 🌐 Visit my website: botfrenzy.co.nz - this is a small e-commerce store selling robotics parts
+![Email](https://img.shields.io/badge/Email-your.email@example.com-blue)
