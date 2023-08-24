@@ -9,3 +9,7 @@ Other infomation:
 - 📫 How to reach me: matai@moorfield.co.nz or matai@botfrenzy.co.nz
 - 🌐 Visit my website: botfrenzy.co.nz - this is a small e-commerce store selling robotics parts
 
+Facts:
+- 🏓 I play table tennis competitively 
+- 🤖 I earned a free 3D printer for helping out at a robotics club - Tronbots (www.tronbots.co.nz)
+- 📷 I enjoy photography and videography 
