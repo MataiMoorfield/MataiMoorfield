@@ -17,3 +17,4 @@ Facts:
 - 🤖 I earned a free 3D printer for helping out at a robotics club - Tronbots (www.tronbots.co.nz).
 - 📷 I enjoy photography and videography.
 - 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect).
+- 🔩 I cane second in a bettleweight combat robot tournament amd won a gaint nut as a trophy and a JBL Google Assistant speaker.
