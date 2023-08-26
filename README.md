@@ -1,5 +1,5 @@
 ### Hi there, I'm Matai 👋
-I am currently a student at Hamilton Boys' High in Hamilton, New Zealand 🇳🇿. I'm passionate about web development, computer science, and robotics. I'm currently working on various computer vision and deep learning projects, which I will be able to apply to an open-source quadrupedal robot.
+I am currently a student at Hamilton Boys' High in Hamilton, New Zealand 🇳🇿. I'm passionate about web development 🌐, computer science 💻, and robotics 🤖. I'm currently working on various computer vision and deep learning projects, which I will be able to apply to an open-source quadrupedal robot.
 
 Future university subjects I hope to take: 🎓
 
