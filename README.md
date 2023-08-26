@@ -22,3 +22,4 @@ Facts:
 Future projecs:
 - 🏎️ F1TENTH autonomous RC car racing
 - ✈️ Carbon fiber RC plane with a DIY combustion jet
+- 🐕 Open-source quadrupedal robot
