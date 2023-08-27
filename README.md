@@ -8,7 +8,7 @@ Future university subjects I hope to take: 🎓
 
 Other information:
 
-- 📫 How to reach me: matai@moorfield.co.nz or matai@botfrenzy.co.nz. I'm always up for a coffee ☕️ or online call 📞! 
+- 📫 How to reach me: matai@moorfield.co.nz or matai@botfrenzy.co.nz. I'm always up for a coffee ☕️ or online chat 📞! 
 - 🌐 Visit my website: www.botfrenzy.co.nz - This is a small e-commerce store selling robotics parts.
 
 Facts:
