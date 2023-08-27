@@ -13,7 +13,7 @@ Other information:
 
 Facts:
 
-- 🏓 I play table tennis competitively (I'm actually writing this in the 2022 New Zealand Secondary School National competition).
+- 🏓 I play table tennis competitively (I'm actually writing this in the 2023 New Zealand Secondary School National competition).
 - 🤖 I earned a free 3D printer for helping out at a robotics club - Tronbots (www.tronbots.co.nz).
 - 📷 I enjoy photography and videography.
 - 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect).
