@@ -1,7 +1,7 @@
 ### Hi there, I'm Matai 👋
 
 
-<img align="right" width="300" alt="Screen Shot 2023-08-30 at 6 52 42 PM" src="https://github.com/MataiMoorfield/MataiMoorfield/assets/138086469/5e089d4e-75be-4f5e-a2a3-fbc5ca4ca8ba">
+<!--<img align="right" width="300" alt="Screen Shot 2023-08-30 at 6 52 42 PM" src="https://github.com/MataiMoorfield/MataiMoorfield/assets/138086469/5e089d4e-75be-4f5e-a2a3-fbc5ca4ca8ba">-->
 
 
 I am currently a student at Hamilton Boys' High in Hamilton, New Zealand 🇳🇿. I'm passionate about web development 🌐, computer science 💻, and robotics 🤖. I'm currently working on various computer vision and deep learning projects, which I will be able to apply to an open-source quadrupedal robot.
