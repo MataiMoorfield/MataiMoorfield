@@ -16,7 +16,7 @@ Facts:
 - 🏓 I play table tennis competitively (I'm actually writing this in the 2023 New Zealand Secondary School National competition).
 - 🤖 I earned a free 3D printer for helping out at a robotics club - Tronbots (www.tronbots.co.nz).
 - 📷 I enjoy photography and videography.
-- 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect).
+- 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect). Check that out <a href="https://www.taurangastemfestival.co.nz/winner-of-the-great-insectbot-mission-announced-at-stemfest-2022/">here</a>
 - 🔩 I cane second in a bettleweight combat robot tournament and won a gaint nut as a trophy and a JBL Google Assistant speaker.
 
 Future projecs:
