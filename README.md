@@ -29,3 +29,4 @@ Future projecs:
 - ✈️ Carbon fiber RC plane with a DIY combustion jet
 - 🐕 Open-source quadrupedal robot (for those who don't know, it's a robotic dog)
 - 🤖 Autonomous robot which uses SLAM to map an enviroment with accurate measurements 
+
