@@ -23,7 +23,7 @@ Facts:
 - 📷 I enjoy photography and videography.
 - 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect). Check that out <a href="https://www.taurangastemfestival.co.nz/winner-of-the-great-insectbot-mission-announced-at-stemfest-2022/">here</a>
 - 🔩 I cane second in a bettleweight combat robot tournament and won a gaint nut as a trophy and a JBL Google Assistant speaker.
-
+- I am currently website adminastrator for <a href="https://www.wtta.org.nz">Waikato Table Tennis</a>
 Future projecs:
 - 🏎️ F1TENTH autonomous RC car racing
 - ✈️ Carbon fiber RC plane with a DIY combustion jet
