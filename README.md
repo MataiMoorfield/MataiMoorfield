@@ -10,6 +10,7 @@ Future university subjects I hope to take: 🎓
 
 - Mechatronics 🛠
 - Computer science/software engineering 💻
+- Electrical Engineering ⚡️
 
 Other information:
 
