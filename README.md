@@ -19,4 +19,4 @@ Facts:
 - I am currently website adminastrator for <a href="https://www.wtta.org.nz">Waikato Table Tennis</a>
 
 Future projecs:
-- Robotic arm with machine learning
+- Robotic arm with machine learning/computer vision
