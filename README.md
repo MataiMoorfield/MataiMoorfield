@@ -11,7 +11,7 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand 🇳�
 ### Other information:
 
 - 📫 How to contact me: matai@moorfield.co.nz or matai@botfrenzy.co.nz
-- 🌐 Visit my website: www.botfrenzy.co.nz - This is a small e-commerce store selling robotics parts.
+- 🌐 Visit my website: [Bot Frenzy](www.botfrenzy.co.nz) - This is a small e-commerce store selling robotics parts.
 
 ### Facts:
 - 🪐 I won a robotics tournament for designing & building an InsectBot (a robot with characteristics suited for Mars and resembling an insect). Check that out <a href="https://www.taurangastemfestival.co.nz/winner-of-the-great-insectbot-mission-announced-at-stemfest-2022/">here</a>
@@ -25,3 +25,4 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand 🇳�
 ### Languages: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
