@@ -24,5 +24,8 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand ðŸ‡³ðŸ‡
 
 ### Languages: 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,html,css" />
+  </a>
+</p>
