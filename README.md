@@ -20,7 +20,7 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand ðŸ‡³ðŸ‡
 
 ### Future projecs:
 - Robotic arm with machine learning/computer vision
-- SLAM robot for "Uber" deliveries 
+- SLAM robot for "Uber" deliveries
 
 ### Languages: 
 
@@ -29,3 +29,5 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand ðŸ‡³ðŸ‡
     <img src="https://skillicons.dev/icons?i=python,swift,cpp,html" />
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mataimoorfield&show_icons=true&locale=en&layout=compact" alt="mataimoorfield" /></p>
