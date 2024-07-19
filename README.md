@@ -26,7 +26,7 @@ I am currently a student at Hamilton Boys' High in Hamilton, New Zealand ğŸ‡³ğŸ‡
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,swift,cpp,html" />
+    <img src="https://skillicons.dev/icons?i=python,css,cpp,html" />
   </a>
 </p>
 
