@@ -1,7 +1,7 @@
 ### matai moorfield👋
 
 student wildlife photographer and programmer<br>
-[portfolio](matai.moorfield.co.nz)
+[portfolio](https://www.matai.moorfield.co.nz)
 
 ### Languages: 
 
