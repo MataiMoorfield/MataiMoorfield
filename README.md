@@ -1,6 +1,7 @@
-### Hi there, I'm Matai 👋
+### matai moorfield👋
 
-Student wildlife photographer and programmer
+student wildlife photographer and programmer<br>
+[portfolio](matai.moorfield.co.nz)
 
 ### Languages: 
 
@@ -9,5 +10,3 @@ Student wildlife photographer and programmer
     <img src="https://skillicons.dev/icons?i=python,css,cpp,html" />
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mataimoorfield&show_icons=true&locale=en&layout=compact" alt="mataimoorfield" /></p>
